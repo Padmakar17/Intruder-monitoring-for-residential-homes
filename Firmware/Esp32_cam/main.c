@@ -1,6 +1,4 @@
-ESP32 CAMERA CODE 
-main.c
-
+//ESP32 CAMERA CODE 
 
 #include "esp_log.h"
 #include "esp_camera.h"
